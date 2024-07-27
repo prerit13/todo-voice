@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-voice/static/css/main.582adb5a.css",
+    "main.js": "/todo-voice/static/js/main.06a7d19d.js",
+    "static/js/453.1243e173.chunk.js": "/todo-voice/static/js/453.1243e173.chunk.js",
+    "index.html": "/todo-voice/index.html",
+    "main.582adb5a.css.map": "/todo-voice/static/css/main.582adb5a.css.map",
+    "main.06a7d19d.js.map": "/todo-voice/static/js/main.06a7d19d.js.map",
+    "453.1243e173.chunk.js.map": "/todo-voice/static/js/453.1243e173.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582adb5a.css",
+    "static/js/main.06a7d19d.js"
+  ]
+}
